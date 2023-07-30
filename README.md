@@ -12,8 +12,11 @@ git clone https://github.com/studeyang/java-vs.git
 ```
 
 设置 `scripts` 目录至环境变量（推荐手动设置）。
+
 经过win10以上测试，ps1脚本有效。
-bat脚本未测试，所以放在另外一个文件夹暂不使用。
+
+bat脚本未测试，所以放在batscript文件夹暂不使用。
+
 maven暂时没有切换版本的需求，故只对jdk版本进行设置。
 
 ```shell
