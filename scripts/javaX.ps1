@@ -21,6 +21,7 @@ switch ($javaVersion) {
 	"Java 19" { $env:JAVA_HOME = "" }
 	"Java 20" { $env:JAVA_HOME = "" }
 	"Java 21" { $env:JAVA_HOME = "" }
+	"Graal 17" { $env:JAVA_HOME = "D:\Programming\EclipseAdoptium\graalvm-ce-java17-22.3.0" }
 }
 
 if ($perm -eq "perm") {
