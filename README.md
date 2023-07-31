@@ -1,5 +1,5 @@
 # java-version-switcher
-快速切换Java版本。
+Windows系统下快速切换Java版本。
 
 ## 使用方法
 
