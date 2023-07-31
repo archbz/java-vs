@@ -49,3 +49,5 @@ java17 perm
 maven_upgrade 当前版本maven目录
 grade_upgrade 当前版本grade目录
 ```
+
+将当前版本目录作为参数（参数和命令之间以空格分隔）附在命令后即可。
