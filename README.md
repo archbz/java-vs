@@ -41,3 +41,11 @@ java17 perm
 
 如果不加 perm (permanence) 则表示只在当前 cmd 窗口有效。
 
+### 4. 升级命令
+
+增加maven_upgrade和gradle_upgrade命令。
+
+```shell
+maven_upgrade 当前版本maven目录
+grade_upgrade 当前版本grade目录
+```
